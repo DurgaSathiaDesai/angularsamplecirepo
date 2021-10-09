@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: ./dist/sampleangularci
+  - source: ./dist
     destination: /home/ec2-user
   - source: ./scripts
     destination: /home/ec2-user
